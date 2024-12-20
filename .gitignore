@@ -24,3 +24,5 @@ MPCTools-Python2/*
 MPCTools-Python3/*
 testzip*/*
 
+build/
+MPCTools.egg-info/
